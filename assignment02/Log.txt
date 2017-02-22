@@ -38,7 +38,7 @@
 			- Incorrect integer value: '' for column 'state_id' at row 1
 - Objective 7 (COMPLETED)
 
-2.21.2017 (Started 7pm
+2.21.2017 (3 hrs)
 - Objective 6 (COMPLETED)
 	- query_functions.php
 		- Completed insert_territory()
