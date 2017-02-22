@@ -1,0 +1,55 @@
+2.8.2017 (1 hr)
+- Setting up database
+
+2.17.2017 (2 hrs)
+- Get better understanding of how Staff CMS for Users works (Objective 3)
+	- there was an extra "," for the sql query code at the end
+- Completing Staff CMS for Salespeople with reference to Staff CMS for Users (Objective 4)
+
+2.18.2017 (1hr)
+- Objective 7
+	- Improved has_valid_email_format()
+	- Created has_valid_phone_format()
+	- Created has_valid_username_format()
+
+2.19.2017 (3 hrs)
+- Objective 4 (COMPLETED)
+	- Completed edit.php
+- Objective 5 (COMPLETED)
+	- Completed index.php
+	- Completed show.php
+	- Completed new.php
+	- Completed edit.php
+	- query_functions.php
+		- Completed validate_state() (3 custom validations functions)
+		- Completed insert_state()
+		- Completed update_state()
+- Objective 6
+	- Completed index.php
+	- Completed show.php
+	- Completed new.php
+	- Completed edit.php
+
+2.20.2017 (1 hr)
+- Objective 6
+	- query_functions.php
+		- Completed validate_territory() (2 custom validations functions)
+		(!) Problem: insert_territory()
+			- Incorrect integer value: '' for column 'state_id' at row 1
+- Objective 7 (COMPLETED)
+
+2.21.2017 (Started 7pm
+- Objective 6 (COMPLETED)
+	- query_functions.php
+		- Completed insert_territory()
+		- Completed update_territory()
+	
+- Objective 8 (COMPLETED)
+	- Completed query_functions sanitization
+	- Completed territories sanitization
+	- Completed salespeople sanitization 
+	- Completed states sanitization
+	- Completed users sanitization
+
+- Objective 9 (COMPLETED?)
+	- Tests the strings provided in the hint
