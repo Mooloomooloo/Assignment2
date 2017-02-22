@@ -52,4 +52,4 @@
 	- Completed users sanitization
 
 - Objective 9 (COMPLETED?)
-	- Tests the strings provided in the hint
+	- Tested the strings provided in the hint
